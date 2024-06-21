@@ -28,8 +28,8 @@ breathablepitlat <- data_in |>
 
 # Modify categorical to factor data type
 breathablepitlat <- breathablepitlat |>
-  dplyr::rename(tolower) |.
-  dplyr::mutate(dplyr::across(c(site, test, location)), factor)
+  dplyr::rename_all(tolower) |>
+  dplyr::mutate(dplyr::across(c(site, test, location), factor))
 
 # Export Data ------------------------------------------------------------------
 usethis::use_data(breathablepitlat, overwrite = TRUE)
