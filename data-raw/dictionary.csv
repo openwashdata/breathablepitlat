@@ -1,0 +1,9 @@
+directory,file_name,variable_name,variable_type,description
+data,breathablepitlat.rda,site,integer,There are two sites for the field test: site 1 and site 2. A twin-pit pour-flush pit latrine was constructed at each site.
+data,breathablepitlat.rda,depth,double,The soil samples were collected at two different depths (1 m and 0.5 m) from ground level.
+data,breathablepitlat.rda,lateral,double,"The soil samples were collected from 0.5 m , 1 m,  5 m and 10 m lateral distance away from the pit."
+data,breathablepitlat.rda,time,double,This describes the time (in days) of sample collection. The water and soil samples were collected over a period of 322 days.
+data,breathablepitlat.rda,test,integer,"The 6 parameters tested from the samples collected in this field test. They include pH,  electrical conductivity,  total coliform,  nitrate, ammonia,  and phosphorus."
+data,breathablepitlat.rda,location,integer,"The location of the soil samples marked P1 for unlined and P2 for lined pit. A, B, C, D, E, F are locations around the pits while M is the middle point between the lined and unlined pit."
+data,breathablepitlat.rda,values,double,The values measured for said parameter
+data,breathablepitlat.rda,num_test,logical,The values measured for said parameter
