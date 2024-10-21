@@ -8,6 +8,7 @@
 [![License: CC BY
 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13960699.svg)](https://zenodo.org/doi/10.5281/zenodo.13960699)
 <!-- badges: end -->
 
 The goal of breathablepitlat is to demonstrate the transport of
@@ -38,8 +39,8 @@ library(kableExtra)
 Alternatively, you can download the individual datasets as a CSV or XLSX
 file from the table below.
 
-| dataset          | CSV                                                                                                         | XLSX                                                                                                          |
-|:-----------------|:------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|
+| dataset | CSV | XLSX |
+|:---|:---|:---|
 | breathablepitlat | [Download CSV](https://github.com/openwashdata/breathablepitlat/raw/main/inst/extdata/breathablepitlat.csv) | [Download XLSX](https://github.com/openwashdata/breathablepitlat/raw/main/inst/extdata/breathablepitlat.xlsx) |
 
 ## Data
@@ -62,7 +63,7 @@ breathablepitlat |>
   gt::as_raw_html()
 ```
 
-<div id="ycvjhmjnsb" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="yytsonqmyo" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   &#10;  <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
     <tr class="gt_col_headings" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;">
@@ -279,18 +280,21 @@ Please cite this package using:
 citation("breathablepitlat")
 #> To cite package 'breathablepitlat' in publications use:
 #> 
-#>   Zhong M, Saxena S (2024). _breathablepitlat: Dataset about
+#>   Zhong M, Saxena S (2024). "breathablepitlat: Dataset about
 #>   experiments of field application of breathable laminate-lined pit
-#>   latrines_. R package version 0.0.0.9000,
+#>   latrines." doi:10.5281/zenodo.13960699
+#>   <https://doi.org/10.5281/zenodo.13960699>,
 #>   <https://github.com/openwashdata/breathablepitlat>.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
-#>   @Manual{,
+#>   @Misc{zhong_etall:2024,
 #>     title = {breathablepitlat: Dataset about experiments of field application of breathable laminate-lined pit latrines},
 #>     author = {Mian Zhong and Shray Saxena},
 #>     year = {2024},
-#>     note = {R package version 0.0.0.9000},
+#>     doi = {10.5281/zenodo.13960699},
 #>     url = {https://github.com/openwashdata/breathablepitlat},
+#>     abstract = {This dataset assists with a research study aims at capturing the pathogens and contaminants from pit latrines by lining them with a hydrophobic laminate. The data are collected to demonstrate the transport of contaminants from two pour flush, twin-pit latrines in which one pit is lined and one is unlined.},
+#>     version = {0.0.0.9000},
 #>   }
 ```

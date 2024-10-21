@@ -1,0 +1,35 @@
+# --------------------------------------------
+# CITATION file created with {cffr} R package
+# See also: https://docs.ropensci.org/cffr/
+# --------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "breathablepitlat" in publications use:'
+type: software
+license: CC-BY-4.0
+title: 'breathablepitlat: Dataset about experiments of field application of breathable
+  laminate-lined pit latrines'
+version: 0.0.0.9000
+doi: 10.5281/zenodo.13960699
+abstract: This dataset assists with a research study aims at capturing the pathogens
+  and contaminants from pit latrines by lining them with a hydrophobic laminate. The
+  data are collected to demonstrate the transport of contaminants from two pour flush,
+  twin-pit latrines in which one pit is lined and one is unlined.
+authors:
+- family-names: Zhong
+  given-names: Mian
+  email: mzhong@ethz.ch
+  orcid: https://orcid.org/0009-0009-4546-7214
+- family-names: Saxena
+  given-names: Shray
+  email: shraysaxena88@gmail.com
+  orcid: https://orcid.org/0000-0002-0452-5619
+repository-code: https://github.com/openwashdata/breathablepitlat
+url: https://github.com/openwashdata/breathablepitlat
+date-released: '2024-06-21'
+contact:
+- family-names: Zhong
+  given-names: Mian
+  email: mzhong@ethz.ch
+  orcid: https://orcid.org/0009-0009-4546-7214
+

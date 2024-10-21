@@ -1,0 +1,17 @@
+
+bibentry(bibtype = "Misc",
+         key = "zhong_etall:2024",
+         title = "breathablepitlat: Dataset about experiments of field application of breathable laminate-lined pit latrines",
+         author = c(person(given = "Mian",
+                           family = "Zhong",
+                           email = "mzhong@ethz.ch",
+                           comment = c(ORCID = "0009-0009-4546-7214")),
+                    person(given = "Shray",
+                           family = "Saxena",
+                           email = "shraysaxena88@gmail.com",
+                           comment = c(ORCID = "0000-0002-0452-5619"))),
+         year = "2024",
+         doi = "10.5281/zenodo.13960699",
+         url = "https://github.com/openwashdata/breathablepitlat",
+         abstract = "This dataset assists with a research study aims at capturing the pathogens and contaminants from pit latrines by lining them with a hydrophobic laminate. The data are collected to demonstrate the transport of contaminants from two pour flush, twin-pit latrines in which one pit is lined and one is unlined.",
+         version = "0.0.0.9000")
