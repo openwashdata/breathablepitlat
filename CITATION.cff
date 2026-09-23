@@ -9,7 +9,7 @@ type: dataset
 license: CC-BY-4.0
 title: 'breathablepitlat: Breathable Laminate-Lined Pit Latrines, Fatehpur, India
   2021-2022'
-version: 0.0.0.9000
+version: 1.0.1
 doi: 10.5281/zenodo.13960698
 abstract: This dataset assists with a research study aims at capturing the pathogens
   and contaminants from pit latrines by lining them with a hydrophobic laminate. The

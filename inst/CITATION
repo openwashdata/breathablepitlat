@@ -15,4 +15,4 @@ bibentry(bibtype = "Misc",
          url = "https://github.com/openwashdata/breathablepitlat",
          abstract = "This dataset assists with a research study aims at capturing the pathogens and contaminants from pit latrines by lining them with a hydrophobic laminate. The data are collected to demonstrate the transport of contaminants from two pour flush, twin-pit latrines in which one pit is lined and one is unlined.",
          keywords = "open data,washdata,sanitation,pit latrines,faecal contamination,soil quality,groundwater,India",
-         version = "0.0.0.9000")
+         version = "1.0.1")

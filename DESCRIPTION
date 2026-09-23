@@ -1,6 +1,6 @@
 Package: breathablepitlat
 Title: Breathable Laminate-Lined Pit Latrines, Fatehpur, India 2021-2022
-Version: 0.0.0.9000
+Version: 1.0.1
 Authors@R: c(
     person("Mian", "Zhong", , "mzhong@ethz.ch", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0009-4546-7214")),
