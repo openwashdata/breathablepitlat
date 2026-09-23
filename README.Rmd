@@ -30,7 +30,8 @@ devtools::load_all()
 [![License: CC BY
 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13960699.svg)](https://zenodo.org/doi/10.5281/zenodo.13960699)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13960698.svg)](https://zenodo.org/doi/10.5281/zenodo.13960698)
+[![R-CMD-check](https://github.com/openwashdata/breathablepitlat/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openwashdata/breathablepitlat/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of breathablepitlat is to demonstrate the transport of
@@ -87,9 +88,11 @@ library(breathablepitlat)
 
 ### breathablepitlat
 
-The dataset `breathablepitlat` contains data about ... It has
-`r nrow(breathablepitlat)` observations and `r ncol(breathablepitlat)`
-variables
+The dataset `breathablepitlat` contains soil quality measurements
+(pH, electrical conductivity, total coliform, nitrate, ammonium and
+phosphorus) taken around the lined and unlined pits at two sites between
+December 2021 and December 2022. It has `r nrow(breathablepitlat)`
+observations and `r ncol(breathablepitlat)` variables.
 
 ```{r}
 breathablepitlat |> 
@@ -115,7 +118,7 @@ Geographical location of the study site. The village locates in the
 delta area adjacent to the Ganga River along the border of Fatehpur
 District, Uttar Pradesh province, India.
 
-![](man/figures/Figure1.png)
+![Map of India, Uttar Pradesh and Fatehpur District with the study village on the Ganga River](man/figures/Figure1.png)
 
 ```{r}
 library(breathablepitlat)

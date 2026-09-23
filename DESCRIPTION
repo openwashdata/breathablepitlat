@@ -1,6 +1,6 @@
 Package: breathablepitlat
-Title: Dataset about experiments of field application of breathable laminate-lined pit latrines
-Version: 0.0.0.9000
+Title: Breathable Laminate-Lined Pit Latrines, Fatehpur, India 2021-2022
+Version: 1.0.1
 Authors@R: c(
     person("Mian", "Zhong", , "mzhong@ethz.ch", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0009-4546-7214")),
@@ -11,12 +11,15 @@ Description: This dataset assists with a research study aims at capturing the pa
 License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.2
 Depends: 
     R (>= 2.10)
 LazyData: true
 Language: en-GB
-Config/Needs/website: rmarkdown
+Config/Needs/website: rmarkdown, dplyr, gt, kableExtra, knitr, readr, stringr, tidyverse
 Date: 2024-06-21
 URL: https://github.com/openwashdata/breathablepitlat
 BugReports: https://github.com/openwashdata/breathablepitlat/issues
+X-schema.org-keywords: open data, washdata, sanitation, pit latrines, faecal contamination, soil quality, groundwater, India
+X-schema.org-spatialCoverage: Fatehpur District, Uttar Pradesh, India
+X-schema.org-temporalCoverage: 2021-12-01/2022-12-31
+Config/roxygen2/version: 8.0.0
