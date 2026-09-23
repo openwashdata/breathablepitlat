@@ -1,16 +1,16 @@
-# --------------------------------------------
-# CITATION file created with {cffr} R package
+# ------------------------------------------------
+# CITATION.cff file created with {cffr} R package
 # See also: https://docs.ropensci.org/cffr/
-# --------------------------------------------
+# ------------------------------------------------
  
 cff-version: 1.2.0
 message: 'To cite package "breathablepitlat" in publications use:'
-type: software
+type: dataset
 license: CC-BY-4.0
-title: 'breathablepitlat: Dataset about experiments of field application of breathable
-  laminate-lined pit latrines'
+title: 'breathablepitlat: Breathable Laminate-Lined Pit Latrines, Fatehpur, India
+  2021-2022'
 version: 0.0.0.9000
-doi: 10.5281/zenodo.13960699
+doi: 10.5281/zenodo.13960698
 abstract: This dataset assists with a research study aims at capturing the pathogens
   and contaminants from pit latrines by lining them with a hydrophobic laminate. The
   data are collected to demonstrate the transport of contaminants from two pour flush,
@@ -32,4 +32,13 @@ contact:
   given-names: Mian
   email: mzhong@ethz.ch
   orcid: https://orcid.org/0009-0009-4546-7214
+keywords:
+- open data
+- washdata
+- sanitation
+- pit latrines
+- faecal contamination
+- soil quality
+- groundwater
+- India
 
