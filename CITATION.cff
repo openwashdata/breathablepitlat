@@ -24,14 +24,18 @@ authors:
   given-names: Shray
   email: shraysaxena88@gmail.com
   orcid: https://orcid.org/0000-0002-0452-5619
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
+  orcid: https://orcid.org/0000-0003-2196-5015
 repository-code: https://github.com/openwashdata/breathablepitlat
 url: https://github.com/openwashdata/breathablepitlat
 date-released: '2024-06-21'
 contact:
-- family-names: Zhong
-  given-names: Mian
-  email: mzhong@ethz.ch
-  orcid: https://orcid.org/0009-0009-4546-7214
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
+  orcid: https://orcid.org/0000-0003-2196-5015
 keywords:
 - open data
 - washdata
