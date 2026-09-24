@@ -2,24 +2,26 @@
 
 ## Authors
 
-- **Mian Zhong**. Author, maintainer.
-  [](https://orcid.org/0009-0009-4546-7214)
+- **Mian Zhong**. Author. [](https://orcid.org/0009-0009-4546-7214)
 
 - **Shray Saxena**. Author. [](https://orcid.org/0000-0002-0452-5619)
+
+- **Lars Schöbitz**. Maintainer.
+  [](https://orcid.org/0000-0003-2196-5015)
 
 ## Citation
 
 Source:
 [`inst/CITATION`](https://github.com/openwashdata/breathablepitlat/blob/main/inst/CITATION)
 
-Zhong M, Saxena S (2024). “breathablepitlat: Breathable Laminate-Lined
-Pit Latrines, Fatehpur, India 2021-2022.”
+Zhong M, Saxena S, Schöbitz L (2024). “breathablepitlat: Breathable
+Laminate-Lined Pit Latrines, Fatehpur, India 2021-2022.”
 [doi:10.5281/zenodo.13960698](https://doi.org/10.5281/zenodo.13960698).
 <https://github.com/openwashdata/breathablepitlat>.
 
     @Misc{zhong_etall:2024,
       title = {breathablepitlat: Breathable Laminate-Lined Pit Latrines, Fatehpur, India 2021-2022},
-      author = {Mian Zhong and Shray Saxena},
+      author = {Mian Zhong and Shray Saxena and Lars Schöbitz},
       year = {2024},
       doi = {10.5281/zenodo.13960698},
       url = {https://github.com/openwashdata/breathablepitlat},
