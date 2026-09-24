@@ -365,7 +365,7 @@ Please cite this package using:
 citation("breathablepitlat")
 #> To cite package 'breathablepitlat' in publications use:
 #> 
-#>   Zhong M, Saxena S (2024). "breathablepitlat: Breathable
+#>   Zhong M, Saxena S, Schöbitz L (2024). "breathablepitlat: Breathable
 #>   Laminate-Lined Pit Latrines, Fatehpur, India 2021-2022."
 #>   doi:10.5281/zenodo.13960698
 #>   <https://doi.org/10.5281/zenodo.13960698>.
@@ -375,7 +375,7 @@ citation("breathablepitlat")
 #> 
 #>   @Misc{zhong_etall:2024,
 #>     title = {breathablepitlat: Breathable Laminate-Lined Pit Latrines, Fatehpur, India 2021-2022},
-#>     author = {Mian Zhong and Shray Saxena},
+#>     author = {Mian Zhong and Shray Saxena and Lars Schöbitz},
 #>     year = {2024},
 #>     doi = {10.5281/zenodo.13960698},
 #>     url = {https://github.com/openwashdata/breathablepitlat},
