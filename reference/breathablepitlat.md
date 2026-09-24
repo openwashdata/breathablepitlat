@@ -1,0 +1,59 @@
+# breathablepitlat: Breathable Laminate-Lined Pit Latrines, Fatehpur, India 2021-2022
+
+This dataset assists with a study aims at capturing the pathogens and
+contaminants from pit latrines by lining them with a hydrophobic
+laminate. This paper demonstrates the transport of contaminants from two
+pour flush, twin-pit latrines in which one pit is lined and one is
+unlined. A direct comparison of soil/water quality parameters around
+each pit is done to elucidate the efficacy of a hydrophobic laminate
+liner at field-scale.
+
+## Usage
+
+``` r
+breathablepitlat
+```
+
+## Format
+
+A tibble with 3132 rows and 8 variables
+
+- site:
+
+  There are two sites for the field test: site 1 and site 2. A twin-pit
+  pour-flush pit latrine was constructed at each site.
+
+- depth:
+
+  The soil samples were collected at two different depths (1 m and
+  1.5 m) from ground level.
+
+- lateral:
+
+  The soil samples were collected from 0.5 m , 1 m, 5 m and 10 m lateral
+  distance away from the pit.
+
+- time:
+
+  This describes the time (in days) of sample collection. The water and
+  soil samples were collected over a period of 322 days.
+
+- test:
+
+  The 6 parameters tested from the samples collected in this field test.
+  They include pH, electrical conductivity, total coliform, nitrate,
+  ammonia, and phosphorus.
+
+- location:
+
+  The location of the soil samples marked P1 for unlined and P2 for
+  lined pit. A, B, C, D, E, F are locations around the pits while M is
+  the middle point between the lined and unlined pit.
+
+- values:
+
+  The values measured for said parameter
+
+- num_test:
+
+  Whether the measured value is numeric; TRUE for every row.
