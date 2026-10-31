@@ -3,6 +3,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13960698.svg)](https://zenodo.org/doi/10.5281/zenodo.13960698)
 [![R-CMD-check](https://github.com/openwashdata/breathablepitlat/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openwashdata/breathablepitlat/actions/workflows/R-CMD-check.yaml)
 
+A data package published by [openwashdata](https://openwashdata.org).
+
 The goal of breathablepitlat is to demonstrate the transport of
 contaminants from two pour flush, twin-pit latrines in which one pit is
 lined and one is unlined.
